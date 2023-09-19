@@ -1,5 +1,3 @@
 # hello-world1
+Hello
 This is James from SDA 250
-Hello?
-me = "James"
-print(me)
